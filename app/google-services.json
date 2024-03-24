@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717103321991",
+    "project_id": "baitapcanhan-b1252",
+    "storage_bucket": "baitapcanhan-b1252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717103321991:android:ee418134c052e4a3bd3922",
+        "android_client_info": {
+          "package_name": "com.example.baitapcanhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYprEORQkX5ARj92hYKYaidLyTTTnPLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
